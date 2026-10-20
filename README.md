@@ -46,7 +46,7 @@ flutter create . --project-name movie_library
 flutter pub get
 ```
 
-## Load 50 movies from TMDB (optional)
+## Load 50 movies from TMDB
 
 The app ships with 8 placeholder posters. To replace them with 50 real movies
 (title, genre, year, rating, poster) from [TMDB](https://www.themoviedb.org/):
