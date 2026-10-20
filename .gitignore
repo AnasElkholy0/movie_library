@@ -1,0 +1,44 @@
+# Build outputs
+build/
+.dart_tool/
+.packages
+.pub-cache/
+.pub/
+*.iml
+
+# Flutter / Dart generated
+.flutter-plugins
+.flutter-plugins-dependencies
+.metadata
+pubspec.lock
+coverage/
+*.g.dart
+*.freezed.dart
+
+# Android
+android/.gradle/
+android/local.properties
+android/gradlew
+android/gradlew.bat
+android/captures/
+android/app/debug/
+android/app/profile/
+android/app/release/
+*.jks
+*.keystore
+key.properties
+
+# iOS / macOS
+ios/Pods/
+ios/.symlinks/
+ios/Flutter/ephemeral/
+ios/**/xcuserdata/
+macos/Pods/
+**/DerivedData/
+
+# IDEs / OS
+.idea/
+.vscode/
+*.swp
+.DS_Store
+Thumbs.db
