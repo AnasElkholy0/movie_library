@@ -6,7 +6,7 @@ real-time search, a List/Grid view toggle, local poster images, and a shared
 
 ## Features
 
-- 8 movies with local poster images (`Image.asset`, `BoxFit.cover`, error fallback)
+- 50 movies with local poster images (`Image.asset`, `BoxFit.cover`, error fallback)
 - Live, case-insensitive search by title or genre; "No movies found" empty state
 - AppBar button toggles between List View (`ListView.builder`) and Grid View
   (`GridView.builder`, exactly 2 columns) using the same `MovieCard`
